@@ -1,0 +1,1 @@
+# swetha1520Tooth-Decay-Detection-Using-Random-Forest-and-CNN-Algorithm
