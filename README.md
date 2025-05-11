@@ -1,1 +1,1 @@
-# swetha1520Tooth-Decay-Detection-Using-Random-Forest-and-CNN-Algorithm
+# Dental-Caries-Prediction-Using-Machine-Learning
